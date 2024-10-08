@@ -1,5 +1,4 @@
 template <class T>
-// csdjcsnd
 class Deque: public Queue<T> {
 public:
     virtual bool getHead(T& x) const = 0;
